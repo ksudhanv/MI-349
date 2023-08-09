@@ -9,7 +9,7 @@ The names, contact information, office hours, and for the teaching team are show
 | Name                    | Role                      | Email                                       | Office Hours                | Virtual Office                               | Gitlab Service Day   |
 | ----------------------- | ------------------------- | ------------------------------------------- | --------------------------- | -------------------------------------------- | ---------------------- |
 | Prof. Mohammad Ghassemi | Instructor                | [ghassem3@msu.edu](mailto:ghassem3@msu.edu) | Available upon request      | [zoom link](https://msu.zoom.us/my/ghassemi) |  |
-| Jotham Teshome | Teaching  <br />Assistant | [teshomej@msu.edu](mailto:teshomej@msu.edu) | Wednesday:<br /> 5PM - 9PM | TBD                                | Mon, Wednesday, Sat |
+| Jotham Teshome | Teaching  <br />Assistant | [teshomej@msu.edu](mailto:teshomej@msu.edu) | Wednesday:<br /> 5PM - 9PM | [Zoom link](https://msu.zoom.us/j/9682596089)                                | Mon, Wednesday, Sat |
 | Karn Jongnarangsin | Teaching  <br />Assistant | [jongnara@msu.edu](mailto:jongnara@msu.edu) | Thursday:<br /> 5PM - 9PM | [zoom link](https://msu.zoom.us/j/6279798208) | Tues, Thurs, Sun |
 
 
