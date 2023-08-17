@@ -93,11 +93,11 @@ The goal of this assignment is to install, configure, and obtain access to all o
 
 ##### Request education credits coupon
 
-As part of this course, you will obtain some hands-on experience publishing live web applications using Google Cloud. Google has generously provided everyone in the class with $50 in cloud credits to get you started. 
+As part of this course, you will obtain some hands-on experience publishing live web applications using Google Cloud. Google has generously provided everyone in the class with $25 in cloud credits to get you started. 
 
 Here's how to obtain them: 
 
-1. [Click here to request your $50 Google Cloud coupon.](https://gcp.secure.force.com/GCPEDU?cid=UsA8ExWUWy5q3YqjtgDAKO6W%2BzqOlMv%2Bs0hb2wMMnN8x4kruDzu3myqSOcGqqdmD/)
+1. [Click here to request your $25 Google Cloud coupon.](https://vector.my.salesforce-sites.com/GCPEDU?cid=LoG5D0CH4GQMhuv4M2B58oNQTdZEbc4he9DQmT%2B2xOgiuDirXlC%2B8d8v0XS6nR6w/)
 
 2. When registering **use your @msu.edu address**. 
 
