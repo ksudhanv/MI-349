@@ -8,10 +8,10 @@ The names, contact information, office hours, and for the teaching team are show
 
 | Name                    | Role                      | Email                                       | Office Hours                | Virtual Office                               | Gitlab Service Day   |
 | ----------------------- | ------------------------- | ------------------------------------------- | --------------------------- | -------------------------------------------- | ---------------------- |
-| Prof. Mohammad Ghassemi | Instructor                | [ghassem3@msu.edu](mailto:ghassem3@msu.edu) | Available upon request      | [zoom link](https://msu.zoom.us/my/ghassemi) |  |
+| Prof. Mohammad Ghassemi | Instructor                | [ghassem3@msu.edu](mailto:ghassem3@msu.edu) | Available upon request      | [Zoom link](https://msu.zoom.us/my/ghassemi) |  |
 | Jotham Teshome | Teaching  <br />Assistant | [teshomej@msu.edu](mailto:teshomej@msu.edu) | Wednesday:<br /> 5PM - 9PM | [Zoom link](https://msu.zoom.us/j/9682596089)                                | Mon, Wednesday, Sat |
-| Karn Jongnarangsin | Teaching  <br />Assistant | [jongnara@msu.edu](mailto:jongnara@msu.edu) | Thursday:<br /> 5PM - 9PM | [zoom link](https://msu.zoom.us/j/6279798208) | Tues, Thurs, Sun |
-| Abigail Murray | Undergraduate Learning  <br />Assistant | [murra328@msu.edu](mailto:murra328@msu.edu) | Tuesday:<br/> 5PM - 9PM | [TBD](https://msu.zoom.us/j/6279798208) | Mon, Wed |
+| Karn Jongnarangsin | Teaching  <br />Assistant | [jongnara@msu.edu](mailto:jongnara@msu.edu) | Thursday:<br /> 5PM - 9PM | [Zoom link](https://msu.zoom.us/j/6279798208) | Tues, Thurs, Sun |
+| Abigail Murray | Undergraduate Learning  <br />Assistant | [murra328@msu.edu](mailto:murra328@msu.edu) | Tuesday:<br/> 5PM - 9PM | [Zoom link](https://msu.zoom.us/j/6782198652) | Mon, Wed |
 
 On the left most column, we list the member of the teaching team that will take final responsibility for answering questions posted on the [course-materials Gitlab Issues page](https://gitlab.msu.edu/cse477-fall-2023/course-materials/-/issues) on the Gitlab Service Day (rightmost-column).
 
