@@ -6,7 +6,7 @@
 
 In the table below, we provide an overview of the 5 assignments due in this course. The assignments are due approximately once a month. Each assignment's requirements (except the Course Exam) builds on the prior assignment, so it's very important that you complete each assignment correctly, and on-time. You should be able to complete each assignment with relative ease if you **start early**, and  watch the lectures.  Solutions to the assignments will not be provided at any point during the course.
 
-| Assignment | Goal of the Assignment                      | Requirements                                   | Due      | Released | Total Value | Rubric                                                       |
+| Assignment | Goal of the Assignment                      | Requirements                                   | Released      | Due | Total Value | Rubric                                                       |
 | ---------- | ------------------------------------------- | ---------------------------------------------- | -------- | -------- | ----------- | ------------------------------------------------------------ |
 | 0          | Set up your development environment         | [Click here](../homework/Homework-0/README.md) | 8/28/23  | 9/08/23  | 5%          | [Click here](../homework/Homework-0/documentation/rubric.md) |
 | 1          | Build the frontend of your personal webpage | TBD                                            | 9/04/23  | 10/01/23 | 20%         | TBD                                                          |
