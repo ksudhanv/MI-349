@@ -9,8 +9,7 @@ The names, contact information, office hours, and for the teaching team are show
 | Name                    | Role                      | Email                                       | Office Hours                | Virtual Office                               | Gitlab Service Day   |
 | ----------------------- | ------------------------- | ------------------------------------------- | --------------------------- | -------------------------------------------- | ---------------------- |
 | Prof. Mohammad Ghassemi | Instructor                | [ghassem3@msu.edu](mailto:ghassem3@msu.edu) | Available upon request      | [Zoom link](https://msu.zoom.us/my/ghassemi) |  |
-| Abigail Murray | Undergraduate Learning  <br />Assistant | [murra328@msu.edu](mailto:murra328@msu.edu) | Monday:<br/> 5PM - 9PM | [Zoom link](https://msu.zoom.us/j/93322588330)
-| Mon, Tues, Wed |
+| Abigail Murray | Undergraduate Learning  <br />Assistant | [murra328@msu.edu](mailto:murra328@msu.edu) | Monday:<br/> 5PM - 9PM | [Zoom link](https://msu.zoom.us/j/93322588330) | Mon, Tues, Wed |
 | Seyeon Park | Teaching <br /> Assistant | [parkseye@msu.edu](mailto:parkseye@msu.edu) |  Tuesday: <br/> 5PM - 9PM | [TBD]() | Thurs, Fri, Sat |
 | Jotham Teshome | Teaching  <br />Assistant | [teshomej@msu.edu](mailto:teshomej@msu.edu) | Wednesday:<br /> 5PM - 9PM | [Zoom link](https://msu.zoom.us/j/9682596089)                                | Mon, Wednesday, Sat |
 | Karn Jongnarangsin | Teaching  <br />Assistant | [jongnara@msu.edu](mailto:jongnara@msu.edu) | Thursday:<br /> 5PM - 9PM | [Zoom link](https://msu.zoom.us/j/6279798208) | Tues, Thurs, Sun |
