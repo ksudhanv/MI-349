@@ -8,7 +8,7 @@ In the table below, we provide an overview of the 5 assignments due in this cour
 
 | Assignment | Goal of the Assignment                      | Requirements                                   | Released      | Due | Total Value | Rubric                                                       |
 | ---------- | ------------------------------------------- | ---------------------------------------------- | -------- | -------- | ----------- | ------------------------------------------------------------ |
-| 0          | Set up your development environment         | [Click here](../homework/Homework-0/README.md) | 8/28/23  | 9/08/23  | 5%          | [Click here](../homework/Homework-0/documentation/rubric.md) |
+| 0          | Set up your development environment         | [Click here](../homework/Homework-0/README.md) | 8/28/23  | 9/11/23  | 5%          | [Click here](../homework/Homework-0/documentation/rubric.md) |
 | 1          | Build the frontend of your personal webpage | [Click here](../homework/Homework-1/README.md) | 9/04/23  | 10/01/23 | 20%         | [Click here](../homework/Homework-1/documentation/rubric.md) |
 | 2          | Build the backend of your personal webpage  | TBD                                            | 10/02/23 | 11/05/23 | 20%         | TBD                                                          |
 | 3          | Enable real-time event-based communication  | TBD                                            | 11/06/23 | 12/03/23 | 20%         | TBD                                                          |
