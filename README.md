@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # MI-349
 =======
+=======
+>>>>>>> b25d713 (Initial commit)
 # A Hands-on Introduction to Web Application Development
 
 Department of Computer Science, Michigan State University, Course Number 477, Asynchronous Instruction, Fall Semester, 2023 
@@ -31,4 +34,10 @@ This course provides an overview of contemporary tools and techniques used for m
 * [Assignment Help](documents/teaching.md)
 * [Tools and External Resources](documents/tools-and-resources.md)
 
+<<<<<<< HEAD
 >>>>>>> d651fa0 (Initial commit)
+=======
+=======
+# MI-349
+>>>>>>> 2880a8e (Initial commit)
+>>>>>>> b25d713 (Initial commit)
