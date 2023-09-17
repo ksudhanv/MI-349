@@ -112,7 +112,28 @@ Here you will find the course calendar. For each week of the course, we provide 
 
 <u> week of 9/18/2023</u>
 
+**Lecture Videos:**
 
+* **[[Lecture]](https://youtu.be/8uePV_OiPMQ):  JavaScript Essentials**
+  * [[Reading]](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript): What is JavaScript?
+  * [[Reading]](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash): Basic syntax
+  * [[Reading]](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong): Troubleshooting
+  * [[Reading]](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables): Variables
+  * [[Reading]](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math): Math
+  * [[Reading]](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings): Strings
+  * [[Reading]](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods): String Methods
+  * [[Reading]](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays): Arrays
+  * [[Reading]](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals): Conditionals
+  * [[Reading]](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code): Loops
+  * [[Reading]](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions): Built-in functions
+  * [[Reading]](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Build_your_own_function): Custom functions
+  * [[Reading]](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values): Return values
+  * [[Reading]](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events): Events
+  * [[Reading]](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics): Basics
+  * [[Reading]](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes): Prototypes
+  * [[Reading]](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming): Object-oriented concepts
+  * [[Reading]](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Classes_in_JavaScript): Classes
+  * [[Reading]](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON): JSON data
 
 <hr>
 
