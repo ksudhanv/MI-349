@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color: white;
+}
+header{
+    margin-top: 0%;
+    margin-bottom: 10%;
+    margin-left: 2%;
+    font-size: 48px;
+    color: white;
+}
+.card-body{
+    background-color: black;
+    color: white;
+}
+h5{
+    background-color: black;
+    color: white;
+}
+a{
+    color: white;
+}
+.card-header{
+    background-color: black;
+    color: white;
+}
+.btn{
+    border-color: white;
+    color: white;
+}
+.result{
+    color: goldenrod;
+}
